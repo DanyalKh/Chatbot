@@ -1,6 +1,6 @@
 ## Chatbot
 
-Chatbot using Python and langchain
+Chatbot using ChatGPT, Python and langchain
 
 #### License
 
