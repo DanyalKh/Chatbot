@@ -1,6 +1,6 @@
-## Erpnext Copilot
+## Chatbot
 
-ERPNext Copilot
+Chatbot using Python and langchain
 
 #### License
 
